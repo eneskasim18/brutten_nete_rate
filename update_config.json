@@ -1,5 +1,5 @@
 {
-  "force_update": true,
+  "force_update": false,
   "title": "Güncelleme Gerekli",
   "message": "Uygulamanın kritik hatalar içeren eski bir versiyonunu kullanıyorsunuz. Lütfen marketten güncelleyiniz.",
   "android_url": "https://play.google.com/store/apps/details?id=com.eneskasim.brutten_nete",
